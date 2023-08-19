@@ -24,7 +24,7 @@ By processing historical advertising data and uncovering insights and patterns t
 
 # EDA
 ## Univariate Analysis
-<img src="images/uni.png" alt="Logo" width="700" height="auto">
+<img src="images/uni.jpg" alt="Logo" width="700" height="auto">
 
 The distribution of customer gender is almost balanced, with the number of females being 518 and males being 479. The majority of customers originate from DKI Jakarta and West Java. The distribution of categories does not differ significantly, with the highest category being automotive with a count of 112 and the lowest being banking with a count of 90.
 
